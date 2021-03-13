@@ -1,0 +1,41 @@
+%This is to describe the nice parameters to try
+
+Flat surface and sine walls
+t_final = 5
+wx = -1
+wy = 1
+
+Flat surface and tilted sine walls
+t_final = 5
+wx = 0
+wy = 1
+
+Flat surface and tilted sine walls
+t_final = 7
+wx = 1
+wy = 5
+
+Flat surface and tilted sine walls
+t_final = 7
+wx = -1
+wy = 5
+Note: many WARNING messages appear as expected
+
+Gaussian dome surface and tilted walls
+t_final = 0.75
+wx = 0
+wy = 1
+Note: It takes about 4 minutes to run and is not super nice, but the result makes sense
+Note: The program runs for much much longer with a larger time
+        (it seems it would take about 25 minutes to run with t=0.85)
+
+Flat surface sine walls
+t_final = 5
+wx = -1
+wy = 1
+
+Flat surface sine walls
+t_final = 5
+wx = -2
+wy = 1
+
