@@ -1,0 +1,9 @@
+%This is to describe the nice parameters to try
+
+Bitmaps_2000
+Flat surface and sine tilded walls (bottom and top)
+dt = 1
+t_final = 6
+wx = -1
+wy = 5
+Note: if t_final is greater, the robot goes over the edge
